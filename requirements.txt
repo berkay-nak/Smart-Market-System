@@ -1,0 +1,15 @@
+# --- Smart Market System Dependencies ---
+# Python Version Requirement: >=3.10, <3.11 (Recommended: Python 3.10.x)
+
+# Computer Vision & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.23.0,<2.0.0
+
+# Multi-Object Tracking (KRİTİK: Sürüm kesinlikle 15.0.9 olmalı)
+boxmot==15.0.9
+
+# Dashboard & Veri Yönetimi
+streamlit>=1.30.0
+pandas>=2.0.0
