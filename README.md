@@ -12,4 +12,6 @@ This repository contains the official baseline source code and architectural fra
   * TÜBİTAK 2209-A University Students Research Projects Support Program
   * IEEE ASYU 2026 (Paper ID: 321) - *A Smart Market System Using Computer Vision and Embedded Sensor Fusion*
 
-
+---
+### ⚠️ Academic Attribution & Usage Notice
+This repository serves as the foundational baseline infrastructure. Any continuing graduation thesis, derivative system, or publication built upon this codebase must explicitly cite the original authors and the **IEEE ASYU 2026 (Paper ID: 321)** publication.
